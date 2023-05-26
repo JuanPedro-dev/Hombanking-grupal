@@ -13,7 +13,9 @@
   Primero ejecuta HomebankingApplication en el ide de preferencia, una vez iniciado dirigete a http://localhost:8080/web/index.html. 
   <br>
   Perfiles precargados: user: admin@admin, pass: admin
-  Integrantes del trabajo <br>
+
+
+  <br> Integrantes del trabajo <br>
 
 - Trionfini Juan Pedro
 - Tomas Quinteros
